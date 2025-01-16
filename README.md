@@ -4,7 +4,7 @@ You can visit my website on the link
 </i>
 
 </b>
-https://v1v8k.github.io/OCTANET_OCTOBER/
+https://v1v8k.github.io/Amazon_UI_Clone/
 
 <b>Screenshot uploaded</b>
 
